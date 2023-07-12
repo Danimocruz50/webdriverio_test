@@ -1,6 +1,7 @@
 /**
 * main page object containing all methods, selectors and functionality
 * that is shared across all page objects
+* Daniel´s change to test git
 */
 module.exports = class Page {
     /**
