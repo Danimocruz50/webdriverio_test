@@ -1,6 +1,7 @@
 /**
 * main page object containing all methods, selectors and functionality
 * that is shared across all page objects
+* ESTO TIENE QUE ESTAR EN MAIN
 */
 module.exports = class Page {
     /**
